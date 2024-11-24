@@ -1,3 +1,2 @@
-@echo OFF
-@inherritence account 
-zsh su login ainonymus88 Anonymus111011101110 |echo cls | cls
+|su login casper.V.Ngix 000100010001 | env HOST=Com | startx 
+zhufff
