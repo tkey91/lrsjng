@@ -1,3 +1,6 @@
+@echo OFF
+@inherritence account 
+gmail@com zsh su login ainonymus88 Anonymus111011101110
 # lrsjng
 #echo OFF
 #git init |qsh addusr --system-of-a-down lrsjng@gmail.com -ATS-ADMIN --force:success=true:yes<=complete invited 
